@@ -1,3 +1,3 @@
-# Ciori
+# Ciori's website
 
-## ciori.github.com
+Github Pages URL: https://ciori.github.com
