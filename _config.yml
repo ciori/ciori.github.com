@@ -1,4 +1,5 @@
 title: Ciori
-description: This is my personal Website
+tagline: Just my personal Website
 show_downloads: false
 theme: jekyll-theme-chirpy
+theme_mode: dark
