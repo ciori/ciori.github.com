@@ -1,3 +1,3 @@
 # Ciori
 
-Hello
+Hi, this is just my personal website
