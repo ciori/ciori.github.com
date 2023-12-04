@@ -6,3 +6,4 @@ Hi, this is just my personal website
 
 You can find me here:
 - [github](https://github.com/ciori)
+- [gitlab](https://gitlab.com/ciori)
